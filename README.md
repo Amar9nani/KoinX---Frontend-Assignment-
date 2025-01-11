@@ -1,3 +1,5 @@
+KoinX
+
 Objective
 Convert a provided Figma design into a fully functional React.js (or Next.js) app. Integrate Coingecko’s API for real-time Bitcoin pricing and display trending cryptocurrencies.
 Features
